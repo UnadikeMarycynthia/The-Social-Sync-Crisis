@@ -1,4 +1,6 @@
 # The-Social-Sync-Crisis
+<img width="1332" height="727" alt="image" src="https://github.com/user-attachments/assets/18401840-1a5a-48d6-bb76-f89d5714e560" />
+https://drive.google.com/drive/folders/1Rc53CfwrgMGO594mlxhnZDmuRUWEQCcq?usp=sharing
 The Social Sync Crisis: A Data-Driven Report on Digital Habits, Wellness &amp; Productivity in 2023. . A Behavioral Deep Dive into Digital Distraction, Sleep, Work-Life Balance, and Job Wellness
 About the Project
 This dashboard was designed to explore how social media engagement, work stress, screen time, and sleep influence overall productivity and job satisfaction across various roles and demographics. The data tells a nuanced story - one where digital lifestyle habits intersect sharply with professional wellbeing.
